@@ -1,0 +1,129 @@
+{
+  "main": {
+    
+    "image":"profilepic.jpg",
+    "social":[
+     
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/vinay-kumar-b7527a1b4/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/vinay_kumar01/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/vinayk02",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Tottenville High School",
+        "degree":"GPA: 3.76",
+        "graduated":"September 2015 - June 2019",
+        "description":"In high school I was in the architecture program from Fall 2017- June 2019. I also attended College Now Classes in the Spring of 2018. I was also nominated for the National Youth Leadership Forum (NYLF) and I was also nominated for the National Academy for Future Scientists and Technologists."
+      },
+      {
+        "school":"City College of New York",
+        "degree":"GPA: 3.647",
+        "graduated":"2019-2020",
+        "description":"I was nominated for the National Society of Collegiate Scholars"
+      },
+      {
+        "school":"Rutgers University- New Brunswick",
+        "degree":"GPA: 3.4",
+        "graduated":"2020-Present",
+        "description":"I am majoring in Computer Science. I am a member of the National Society of Leadership and Success"
+      }
+    ],
+    "experience":[
+      {
+        "company":"Taste of India II",
+        "title":"Receptionist | Waiter | Social Media Manager",
+        "years":"May 2017 - Present",
+        "description":"Taste of India II is an indian restuarant in Staten Island, New York. I have been working there since May 2017. I am responsible for setting up the dining room for lunch and dinner. I clean up tables. I handle phone orders as well as online orders. I also take care of the cash management and credit card settling. I am also the social media manager for the restuarant."
+      },
+      {
+        "company":"Hill West",
+        "title":"Intern",
+        "years":"June 19- August 2019",
+        "description":"Hill West is an industry leading architecture firm known for creating beautiful high rise towers in New York City. During my summer internship at Hill West, I learned a about the design proccess when it comes to designing high-rise buildings. I learned basic AutoCad skills and also learned how to virtually model buildings using a program called Sketchup. I helped organize project submittals for 130 William Street. I also made a 3-D model and designed an apartment floor plan for the 160 Clarkson Ave project."
+      },
+      {
+        "company":"Jacques Marchais Museum of Tibetan Art",
+        "title":"Volunteer",
+        "years":"June 2017 - August 2017",
+        "description":"Jacques Marchais Museum of Tibetan Art is located in Staten Island, New York. It is home to one of the most extensive collections of Himalayan artifacts. It is a uniquely peaceful retreat that features a beautiful garden. During my time at the museum, I helped take care of the flowers as well as clean up some of the artifacts. I also learned a couple of photography skills while taking photos of Tibetan showcases"
+      },
+      {
+        "company":"Staten Island Hindu Temple",
+        "title":"Volunteer",
+        "years":"June 2017 - Present",
+        "description":"When I volunteer at the temple, I help setup the dining room, serve food, and also cleanup once the event is over."
+      }
+    ],
+    "skills":[
+      {
+        "name":"UI/UX/Web Design",
+        "description":"I have experience with UI/UX/Web Design by testing my skills on personal projects and app prototypes. I use Adobe XD and Adobe Photoshop for these projects."
+      },
+      {
+        "name":"Java",
+        "description":"I have a good amount of knowledge on java especially since I have been using it for school projects since Fall 2020."
+      },
+      {
+        "name":"Web development",
+        "description":"Over the last 6 months I have been self-learning HTML/ CSS / JavaScript in order to make websites"
+      },
+      {
+        "name":"3D Modeling",
+        "description":"I am able to model objects such as houses and buildings by using programs such as Sketchup, Rhino, and AutoCad. I was able to learn and develop these skills during my internship at Hill West Architects. "
+      },
+      {
+        "name":"Social Media Marketing",
+        "description":"I have experience with social media marketing using both facebook and Instagram. I was able to assist Taste of India 2 which is my current part time job, in connecting and gaining more customers through the use of social media."
+      },
+      {
+        "name":"C# and ReactJS",
+        "description":"I have been trying to learn C# and ReactJS for app and game development for future projects."
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"My Portfolio Website",
+        "category":"Website",
+        "image":"01.jpg"
+        
+      },
+      {
+        "title":"Vice Extension",
+        "category":"Visual Studio Code Color Theme Extension",
+        "image":"02.jpg"
+      },
+      {
+        "title":"3-D render of the front view of a modern house",
+        "category":"3-D Model",
+        "image":"03.jpg"
+      },
+      {
+        "title":"Basic Framework Render of a Modern House Design.",
+        "category":"3-D Model",
+        "image":"04.jpg"
+      },
+      {
+        "title":"Taste of India 2 Instagram Account",
+        "category":"Instagram Account",
+        "image":"05.jpg"
+      }
+    ]
+  }
+}
