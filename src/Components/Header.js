@@ -50,15 +50,13 @@ class Header extends Component {
         <div className="row banner">
           <div className="banner-text">
             <h1 className="responsive-headline">Vinay Kumar</h1>
-            <h3>Hello, my name is Vinay Kumar and I am a second year student at
-             Rutgers University  currently pursuing a computer 
-             science bachelor degree.</h3>
+            <h3>Hello, my name is Vinay Kumar and I am a second-year student at Rutgers University. I am currently pursuing a computer science bachelor's degree.</h3>
             <hr />
             <ul className="social">
               <a href="https://www.linkedin.com/in/vinay-kumar-b7527a1b4/" className="button btn project-btn">
                 <i className="fa fa-linkedin-square"></i>Linkedin
               </a>
-              <a href="https://github.com/vinayk02" className="button btn github-btn">
+              <a href="https://github.com/vinayk02" className="button btn project-btn">
                 <i className="fa fa-github"></i>Github
               </a>
             </ul>

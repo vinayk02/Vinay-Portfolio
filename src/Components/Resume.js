@@ -17,6 +17,15 @@ class Resume extends Component {
         </div>
       );
     });
+    const skills = this.props.data.skills.map(function(skills) {
+      return (
+        <div key={skills.name}>
+          <h3>{skills.name}</h3>
+          
+          <p>{skills.description}</p>
+        </div>
+      );
+    });
 
     const experience = this.props.data.experience.map(function(experience) {
       return (
@@ -31,15 +40,7 @@ class Resume extends Component {
       );
     });
 
-    const skills = this.props.data.skills.map(function(skills) {
-      return (
-        <div key={skills.name}>
-          <h3>{skills.name}</h3>
-          
-          <p>{skills.description}</p>
-        </div>
-      );
-    });
+    
 
     return (
       <section id="resume">
