@@ -17,22 +17,16 @@ class About extends Component {
           <div className="nine columns main-col">
             <h2>About Me</h2>
 
-            <p>I'm a student at Rutgers University pursuing a bachelor's degree in computer science. I have work experience in different industries. I'm from Staten Island, New York. I am a fast and enthusiastic learner. I am fluent in spoken Punjabi and Hindi as well.</p>
+            <p>I’m interested mainly in web development and mobile development and my side interests are in data science and game development. My previous experiences include managing the social media and website presence for Taste of India II, interning at Hill West Architects, and volunteering at Jacques Marchais Museum of Tibetan Art and Staten Island Hindu Temple. I’m a fast and enthusiastic learner and am fluent in spoken Punjabi and Hindi. </p>
             <div className="row">
               <div className="columns contact-details">
-                <h2>General Information</h2>
+                <h2>Contact Me</h2>
                 <p className="address">
                   <span>Name: Vinay Kumar</span>
                   <br />
-                  <span>
-                    Age: 20 years old
-                    <br />
-                    Phone: 646-691-4303
-                  </span>
-                  <br />
                   <span>Email: kumarv242471@gmail.com</span>
                   <br />
-                  <span>Address: Staten Island, New York</span>
+                  <span>Phone Number: 646-691-4303</span>
                 </p>
               </div>
             
