@@ -46,6 +46,24 @@
     ],
     "experience":[
       {
+        "company":"Priorityze",
+        "title":"Developer | Owner ",
+        "years":"January 2022 - Present",
+        "description": "I created Priorityze with a vision on helping people, including myself, be more productive. Priorityze is an app available on both Apple App Store and Google Play Store. Priorityze helps people organize their tasks in ways that matter to them. The app includes a to-do list, calendar, and a timer. Priorityze now helps users across the globe become their most productive selves"
+      },
+      {
+        "company":"Alloy Solutions",
+        "title":"Developer | Owner ",
+        "years":"May 2022 - August 2022",
+        "description": "I started Alloy Solutions in the fall of 2021. Alloy Solutions provides services such as Branding, Website Development, Web Design, and App Design. Through Alloy Solutions I have made websites, dashboards, and logos."
+      },
+      {
+        "company":"Whiting-Turner",
+        "title":"VDC Engineer Intern",
+        "years":"May 2022 - August 2022",
+        "description":"Whiting-Tuner is a nationwide driving force in the construction business. During my internship at Whiting-Turner, I learned a lot about the programs that affect the construction process and how to use these programs to be a good engineer. "
+      },
+      {
         "company":"Taste of India II",
         "title":"Receptionist | Waiter | Social Media Manager",
         "years":"May 2017 - Present",
@@ -72,6 +90,10 @@
     ],
     "skills":[
       {
+        "name":"App Development",
+        "description":"I have utilized React Native and Node JS to successfully develop and deploy an app that assists hundreds of people to be more productive."
+      },
+      {
         "name":"UI/UX/Web Design & Development",
         "description":" I have experience with web design through Adobe XD and Adobe Photoshop. Additionally, I have developed websites using HTML, CSS, and Javascript."
       },
@@ -80,25 +102,45 @@
         "description":"I have knowledge of how to use Java since I have been using it frequently for college projects since Fall 2020."
       },
       {
-        "name":"3D Modeling",
-        "description":"I am able to model objects such as houses and buildings using Sketchup, Rhino, and AutoCad. I was able to learn these programs through my internship at Hill West Architects."
+        "name":"3D Modeling & Construction Coordination",
+        "description":"I can model objects such as houses, piping, and buildings using Sketchup, Rhino, and AutoCAD. I learned these programs through my internship at Hill West Architects. I learned the process of construction coordination by using Revizto through my internship at Whiting Turner."
       },
+     
       {
         "name":"Social Media Marketing",
         "description":"I have experience with social media marketing using both Facebook and Instagram. I was able to assist Taste of India 2, which is my current part time job, in connecting and gaining more customers through the use of social media."
       },
       {
-        "name":"C# and ReactJS",
-        "description":"I am currently in the process of learning C# and ReactJS for app and game development for future projects."
+        "name":"Game Development ",
+        "description":"I am currently in the process of learning C# for game development in the Unity Engine."
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
+        "title":"Priorityze",
+        "category":"Mobile App",
+        "image":"Priorityze.jpg", 
+        "link": "https://linktr.ee/priorityze"
+        
+
+        
+      },
+      {
+        "title":"Priorityze Web",
+        "category":"Website",
+        "image":"FocusProject.png",
+        "link": "https://priorityze.app/"
+        
+
+        
+      },
+      {
         "title":"My Portfolio Website",
         "category":"Website",
-        "image":"01.jpg"
+        "image":"01.jpg",
+        "link": "https://vinaykumarportfolio.pages.dev/"
         
 
         
@@ -106,7 +148,14 @@
       {
         "title":"Alloy Website",
         "category":"Website",
-        "image":"Alloy Site.png"
+        "image":"AlloySite.png",
+        "link": "https://alloysolutions.us/"
+      },
+      {
+        "title":"Barbershop Website",
+        "category":"Website",
+        "image":"Noel Website.png",
+        "link": "https://noels-barbershop.pages.dev/"
       },
       {
         "title":"Mock Dashboard",
@@ -116,17 +165,12 @@
       {
         "title":"Master Date Website",
         "category":"Website",
-        "image":"md.png"
+        "image":"md.PNG"
       },
       {
         "title":"Real Estate Mock Website",
         "category":"Website",
         "image":"Real Estate.png"
-      },
-      {
-        "title":"Barbershop Website",
-        "category":"Website",
-        "image":"Noel Website.png"
       },
       
       {

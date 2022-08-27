@@ -17,7 +17,14 @@ class About extends Component {
           <div className="nine columns main-col">
             <h2>About Me</h2>
 
-            <p>I’m interested mainly in web development and mobile development and my side interests are in data science and game development. My previous experiences include managing the social media and website presence for Taste of India II, interning at Hill West Architects, and volunteering at Jacques Marchais Museum of Tibetan Art and Staten Island Hindu Temple. I’m a fast and enthusiastic learner and am fluent in spoken Punjabi and Hindi. </p>
+            <p>I’m interested in app development and in web development. 
+              My previous experiences include developing and releasing my own app called Priorityze on the Apple app store and on the Google Play Store. 
+              I have also made several websites such as the Alloy Solutions website, MasterDate, Noel's Barbershop and some mock dashboards. 
+              I had an internship at Whiting-Turner in the summer of 2022 which taught me about several programs 
+              that are used in construction and how to use them in order to be a good engineer. 
+              I have previously managed the social media and website presence for Taste of India.
+             
+              I’m a fast and enthusiastic learner and am fluent in spoken Punjabi and Hindi. </p>
             <div className="row">
               <div className="columns contact-details">
                 <h2>Contact Me</h2>

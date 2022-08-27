@@ -50,7 +50,7 @@ class Header extends Component {
         <div className="row banner">
           <div className="banner-text">
             <h1 className="responsive-headline">Vinay Kumar</h1>
-            <h3>I am a second-year student at Rutgers University pursuing a bachelor's degree in computer science.</h3>
+            <h3>I am a fourth-year student at Rutgers University pursuing a bachelor's degree in computer science.</h3>
             <hr />
             <ul className="social">
               <a href="https://www.linkedin.com/in/vinay-kumar-b7527a1b4/" className="button btn project-btn">
