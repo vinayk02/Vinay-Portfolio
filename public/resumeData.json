@@ -24,8 +24,8 @@
             {
                 "school": "Rutgers University- New Brunswick",
                 "degree": "Degree: Computer Science",
-                "graduated": "2020-Present",
-                "description": " I am pursuing a Bachelor of Arts in Computer Science. I am a member of the Rutgers Mobile App Development Club, Rutgers Creation of Games Society, Rutgers Association of Punjabis Club, and National Society of Leadership and Success."
+                "graduated": "2020-2023",
+                "description": "My relevant classwork includes: Intro to Computer Science, Data Structures, Discrete Structures 1 & 2, Computer Architecture, Intro to Artificial Intelligence, Software Methodology, Imaging and Multimedia, Design and Analysis of Computer Algorithms, Data Management. I was also a member of the Rutgers Mobile App Development Club, Rutgers Creation of Games Society, Rutgers Association of Punjabis Club, and National Society of Leadership and Success."
             },
             {
                 "school": "City College of New York",
@@ -45,7 +45,7 @@
                 "company": "Priorityze",
                 "title": "Developer | Owner ",
                 "years": "January 2022 - Present",
-                "description": "I'm the founder and sole developer of Priorityze. My vison was to help people including myself, to be more productive in ways that matter to them. To achieve this I designed and developed the app using React Native. Priorityze includes meany unique features like custom notifications, priority ranking, list and category organization. Throughout the early development process, I continuously worked to improve functionality and user experience."
+                "description": "I created Priorityze with a vision of enhancing productivity, both for myself and others. Priorityze, available on the Apple App Store and Google Play Store, empowers users to organize and manage all their tasks with their own unique preferences. This innovative app, developed using React Native, seamlessly synchronizes tasks, subtasks, lists, and categories across multiple devices. What sets Priorityze apart is its integration of Artificial Intelligence, allowing for the rapid generation of intricate tasks with just a prompt. I also spearheaded a multi-platform marketing campaign, utilizing social media platforms such as Instagram and TikTok, to effectively promote the app to users around the world."
             },
             {
                 "company": "Alloy Solutions",
@@ -55,20 +55,20 @@
             },
             {
                 "company": "Whiting-Turner",
-                "title": "VDC Engineer Intern",
-                "years": "May 2022 - August 2022",
-                "description": "Whiting-Tuner is a nationwide driving force in the construction business. During my internship at Whiting-Turner, I learned a lot about the programs that affect the construction process and how to use these programs to be a good engineer. "
+                "title": "VDC Engineer Intern - VDC Engineer",
+                "years": "May 2022 - Present",
+                "description": "As an engineer, I have leveraged my technical expertise to create a more accurate representation of real-world conditions through the generation of multiple 3D models. In addition to this, I continue to oversee and meticulously quality-control various design and subcontractor models, streamlining the installation process. My responsibilities also included the production of multiple floor plan submittals, specifically for deck penetrations, ceiling penetrations, and reflected ceiling plans (RCPs). "
             },
             {
                 "company": "Taste of India II",
                 "title": "Receptionist | Waiter | Social Media Manager",
-                "years": "May 2017 - Present",
-                "description": "Taste of India II is an Indian restaurant in Staten Island, New York. I have been working there since May 2017. I am responsible for setting up the dining room for lunch and dinner. I handle phone orders and also take care of cash management and credit card settling. Additionally, I helped manage the social media accounts."
+                "years": "June 2017 - July 2023",
+                "description": "Taste of India 2 is an Indian restaurant in Staten Island, New York. I have been working there since May 2017. I am responsible for setting up the dining room for lunch and dinner. I clean up tables. I handle phone orders and also take care of cash management and credit card settling. Additionally, I used to manage the social media accounts. "
             },
             {
                 "company": "Hill West",
                 "title": "Intern",
-                "years": "June 19- August 2019",
+                "years": "June 2019- August 2019",
                 "description": "Hill West is an industry-leading architectural firm known for creating beautiful high-rise towers in New York City. During my summer internship at Hill West, I learned about the design process when it comes to designing high-rise buildings. I learned basic AutoCAD skills and learned how to virtually model buildings using SketchUp.. I helped organize project submittals for 130 William Street. I made a 3D model and assisted in potential designs of an apartment floor plan for the 160 Clarkson Ave project."
             },
             {
@@ -91,7 +91,11 @@
             },
             {
                 "name": "UI/UX/Web Design & Development",
-                "description": " I have experience with web design through Adobe XD and Adobe Photoshop. Additionally, I have developed websites using HTML, CSS, and Javascript."
+                "description": " I have experience with web design through Adobe XD and Adobe Photoshop. Additionally, I have developed websites using HTML, CSS, and Javascript. I have also created websites utilizing React.JS as well."
+            },
+            {
+                "name": "Backend Development",
+                "description": "I have utilized Node.JS and MySQL to create a custom backend for Priorityze. The backend is used to synchronize data across multiple devices, safely store user data using OAuth, and call multiple APIs to help users create more intricate tasks."
             },
             {
                 "name": "Java",
@@ -120,21 +124,9 @@
         "projects": [
             {
                 "title": "Priorityze",
-                "category": "Mobile App",
-                "image": "Priorityze.jpg",
-                "link": "https://linktr.ee/priorityze"
-            },
-            {
-                "title": "Priorityze Web",
-                "category": "Website",
+                "category": "Multi-Platform Application",
                 "image": "FocusProject.png",
                 "link": "https://priorityze.app/"
-            },
-            {
-                "title": "My Portfolio Website",
-                "category": "Website",
-                "image": "01.jpg",
-                "link": "https://vinaykumarportfolio.pages.dev/"
             },
             {
                 "title": "Alloy Website",
@@ -143,10 +135,22 @@
                 "link": "https://alloysolutions.us/"
             },
             {
+                "title": "My Portfolio Website",
+                "category": "Website",
+                "image": "01.jpg",
+                "link": "https://vinaykumarportfolio.pages.dev/"
+            },
+            {
                 "title": "Barbershop Website",
                 "category": "Website",
                 "image": "Noel Website.png",
                 "link": "https://noels-barbershop.pages.dev/"
+            },
+            {
+                "title": "Master Date Website",
+                "category": "Website",
+                "image": "md.PNG",
+                "link": "https://masterdate.pages.dev/"
             },
             {
                 "title": "Mock Dashboard",
@@ -154,25 +158,9 @@
                 "image": "Screen Shot 2021-08-09 at 1.59.20 PM.png"
             },
             {
-                "title": "Master Date Website",
-                "category": "Website",
-                "image": "md.PNG"
-            },
-            {
                 "title": "Real Estate Mock Website",
                 "category": "Website",
                 "image": "Real Estate.png"
-            },
-
-            {
-                "title": "Marble Logo",
-                "category": "Logo",
-                "image": "marble.png"
-            },
-            {
-                "title": "Master Date Logo",
-                "category": "Website",
-                "image": "md-final-logo.png"
             },
 
             {
@@ -189,11 +177,6 @@
                 "title": "Basic Framework Render of a Modern House Design.",
                 "category": "3-D Model",
                 "image": "04.jpg"
-            },
-            {
-                "title": "Taste of India 2 Instagram Account",
-                "category": "Instagram Account",
-                "image": "05.jpg"
             }
         ]
     }

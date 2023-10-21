@@ -1,43 +1,50 @@
-import React, { Component } from "react";
-import Zmage from "react-zmage";
+import React, { Component } from 'react';
+import Zmage from 'react-zmage';
 
-let id = 0;
 class Portfolio extends Component {
-  render() {
-    if (!this.props.data) return null;
+    render() {
+        if (!this.props.data) return null;
 
-    const projects = this.props.data.projects.map(function(projects) {
-      let projectImage = "images/portfolio/" + projects.image;
-    
-      return (
-        <div key={id++} className="columns portfolio-item">
-          <div className="item-wrap">
-            <Zmage alt={projects.title} src={projectImage} />
-            <div style={{ textAlign: "center" }}>{projects.title}</div>
-            {projects.link && (
-                <a href={projects.link}  style={{ textAlign: "center", textDecoration:'none' }}> {projects.link}</a>
+        const projects = this.props.data.projects.map(function (project, index) {
+            let projectImage = 'images/portfolio/' + project.image;
 
-            )}
-          </div>
-        </div>
-        
-      );
-    });
+            return (
+                <div key={index} className="columns portfolio-item four columns">
+                    <div className="item-wrap">
+                        <Zmage alt={project.title} src={projectImage} />
+                        <div style={{ textAlign: 'center' }}>
+                            {project.link && (
+                                <a href={project.link} style={{ textDecoration: 'none' }}>
+                                    {project.title}
+                                </a>
+                            )}
+                            {!project.link && (
+                                <p style={{ textDecoration: 'none', color: 'black', marginBottom: 0 }}>
+                                    {project.title}
+                                </p>
+                            )}
+                        </div>
+                    </div>
+                </div>
+            );
+        });
 
-    return (
-      <section id="portfolio">
-        <div className="row">
-          <div className="twelve columns collapsed">
-            <h1>Portfolio</h1>
-
-            <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
-              {projects}
-            </div>
-          </div>
-        </div>
-      </section>
-    );
-  }
+        return (
+            <section id="portfolio">
+                <div className="row">
+                    {
+                        //make a 2x5 grid
+                    }
+                    <div>
+                        <h1>Projects</h1>
+                        <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
+                            {projects}
+                        </div>
+                    </div>
+                </div>
+            </section>
+        );
+    }
 }
 
 export default Portfolio;
