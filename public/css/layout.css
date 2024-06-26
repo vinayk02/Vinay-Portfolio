@@ -250,7 +250,7 @@ ul#nav li a:hover::before{
    border-radius: 100%;
    margin-top: 25%;
 }
-#about .contact-details { width: 41.66667%; }
+
 
 .modal-text{
    position: absolute;
@@ -344,6 +344,7 @@ ul#nav li a:hover::before{
    display: flex;
    flex-direction: column;
    justify-content: center;
+   height: 28vh;
    align-items: center;
    -webkit-transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;

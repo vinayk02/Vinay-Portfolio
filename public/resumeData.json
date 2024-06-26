@@ -32,28 +32,28 @@
         ],
         "experience": [
             {
-                "company": "Priorityze",
-                "title": "Developer | Owner ",
-                "years": "January 2022 - Present",
-                "description": "I created Priorityze with a vision of enhancing productivity, both for myself and others. Priorityze, available on the Apple App Store and Google Play Store, empowers users to organize and manage all their tasks with their own unique preferences. This innovative app, developed using React Native, seamlessly synchronizes tasks, subtasks, lists, and categories across multiple devices. What sets Priorityze apart is its integration of Artificial Intelligence, allowing for the rapid generation of intricate tasks with just a prompt. I also spearheaded a multi-platform marketing campaign, utilizing social media platforms such as Instagram and TikTok, to effectively promote the app to users around the world."
-            },
-            {
                 "company": "Whiting-Turner",
                 "title": "VDC Engineer Intern - VDC Engineer",
                 "years": "May 2022 - Present",
                 "description": "As an engineer, I have leveraged my technical expertise to create a more accurate representation of real-world conditions through the generation of multiple 3D models and laser scanning. In addition to this, I continue to oversee and meticulously quality-control various design and subcontractor models, streamlining the installation process. My responsibilities also included the production of multiple floor plan submittals, specifically for deck penetrations, ceiling penetrations, and reflected ceiling plans (RCPs). "
             },
             {
+                "company": "Priorityze",
+                "title": "Developer | Owner ",
+                "years": "January 2022 - Present",
+                "description": "I created Priorityze with a vision of enhancing productivity, both for myself and others. Priorityze, available on the Apple App Store and Google Play Store, empowers users to organize and manage all their tasks with their own unique preferences. This innovative app, developed using React Native, seamlessly synchronizes tasks, subtasks, lists, and categories across multiple devices. What sets Priorityze apart is its integration of Artificial Intelligence, allowing for the rapid generation of intricate tasks with just a prompt. I spearheaded a multi-platform marketing campaign, utilizing social media platforms such as Instagram and TikTok, to effectively promote the app to users around the world as well."
+            },
+            {
                 "company": "Taste of India II",
                 "title": "Shift Manager",
-                "years": "June 2017 - July 2023",
-                "description": "Taste of India 2 is an Indian restaurant in Staten Island, New York. I assisted in maintaining an online presence by updating the backend and frontend of the website regularly. I managed various types of orders including online, dine-in, and takeout. I also settled all transactions at the end of each switch"
+                "years": "June 2017 - Present",
+                "description": "Taste of India II is an Indian restaurant in Staten Island, New York. I assisted in maintaining an online presence by updating the back-end and front-end of the website regularly. I managed various types of orders including online, dine-in, and takeout. I also settled all transactions at the end of each shift."
             },
             {
                 "company": "Hill West",
                 "title": "Intern",
                 "years": "June 2019- August 2019",
-                "description": "Hill West is an industry-leading architectural firm known for creating beautiful high-rise towers in New York City. As an intern I contributed to keeping project submittals organized. I constructed a highly detailed 3d model of the exterior of a future project to present to investors. I also aided architects in the design of an apartment floor plan. I gained valuable knowledge such as the design process of high rise buildings as well as technical skills such as learning AutoCAD and Sketchup."
+                "description": "Hill West is an industry-leading architectural firm known for creating beautiful high-rise towers in New York City. As an intern, I contributed to keeping project submittals organized. I constructed a highly detailed 3D model of the exterior of a future project to present to investors. I also aided architects in the design of an apartment floor plan. I gained valuable knowledge such as the design process of high rise buildings as well as technical skills such as learning AutoCAD and Sketchup."
             }
         ],
         "skills": [
@@ -162,7 +162,7 @@
                 "image": "ConstructionWebsite.PNG",
                 "bgColor": "#000000",
                 "textColor": "#ffffff",
-                "link": "https://construction-website.pages.dev/"
+                "link": "https://construction-webpage.pages.dev/"
             },
 
             {
@@ -193,16 +193,16 @@
                 "image": "02.jpg"
             },
             {
-                "title": "3-D render of the front view of a modern house",
+                "title": "3D render of the front view of a modern house",
                 "category": "3-D Model",
-                "description": "A 3-D model of a single story modern house that I designed that maximizes natural light and greenery in front to give it a natural feel. I utilized Sketchup to create and render this model.",
+                "description": "A 3D model of a single story modern house that I designed that maximizes natural light and greenery in front to give it a natural feel. I utilized Sketchup to create and render this model.",
                 "bgColor": "#d0ba6e",
                 "textColor": "#ffffff",
                 "image": "03.jpg"
             },
             {
                 "title": "Basic Framework Render of a Modern House Design.",
-                "category": "3-D Model",
+                "category": "3D Model",
                 "description": "A basic framework of a modern house that I designed. I utilized Sketchup to create this model.",
                 "bgColor": "#cbc5cf",
                 "textColor": "#ffffff",

@@ -15,8 +15,8 @@ class About extends Component {
                     <div className="five columns" style={{ justifyContent: 'center', alignItems: 'center' }}>
                         <h2 style={{ textAlign: 'center' }}>About Me</h2>
                         <p style={{ textAlign: 'center' }}>
-                            I'm a passionate developer as well as an entrepreneur. I have experience in mobile app
-                            development, front-end development, and backend development. I am currently experimenting
+                            I am a passionate developer as well as an entrepreneur. I have experience in mobile app
+                            development, front-end development, and back-end development. I am currently experimenting
                             with machine learning. I created an app called Priorityze with a vision to help people,
                             including myself, to be more organized with their tasks in ways that matter to them. The app
                             includes a to-do list and a calendar with many unique features. Thanks to Priorityze,
@@ -24,7 +24,7 @@ class About extends Component {
                             position at Whiting-Turner being a VDC Engineer, I gained valuable experience in the field
                             of engineering. I learned about the various programs used in construction and how to utilize
                             it to become a good engineer. In addition to technical skills, I am a fast and enthusiastic
-                            learn, fluent in spoken Punjabi and Hindi, and have a strong work ethic. I'm excited to
+                            learner, fluent in spoken Punjabi and Hindi, and I have a strong work ethic. I am excited to
                             explore new technologies and continue to grow my skills as a developer.
                         </p>
                         <div
@@ -67,7 +67,7 @@ class About extends Component {
                             </p>
                         </div>
                         <h2>
-                            <span>Frameworks/ Libraries</span>
+                            <span>Frameworks/Libraries</span>
                         </h2>
                         <div style={{ display: 'flex', flexDirection: 'row' }}>
                             <p>
