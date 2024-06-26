@@ -97,7 +97,7 @@
             {
                 "title": "Priorityze",
                 "category": "Multi-Platform Application",
-                "image": "FocusProject.PNG",
+                "image": "FocusProject.png",
                 "description": "A productivity app that empowers users to organize and manage all their tasks with their own unique preferences. This innovative app seamlessly synchronizes tasks, subtasks, lists, and categories across multiple devices. What sets Priorityze apart is its integration of Artificial Intelligence, allowing for the rapid generation of intricate tasks with just a prompt. I also spearheaded a multi-platform marketing campaign, utilizing social media platforms such as Instagram and TikTok, to effectively promote the app to users around the world.",
                 "technologyUsed": " React Native, Node.JS, MySQL, OAuth, React.JS, Javascript, CSS",
                 "link": "https://priorityze.app/",
