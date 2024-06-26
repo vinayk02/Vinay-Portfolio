@@ -32,7 +32,7 @@ class About extends Component {
                             style={{ justifyContent: 'center', alignItems: 'center', display: 'flex' }}
                         >
                             <a href="https://copper-bernete-67.tiiny.site">
-                                <i className="fa fa-file" style={{ fontSize: '3rem' }}></i>
+                                <i className="fa fa-file" style={{ fontSize: '3rem', marginRight: '3vw' }}></i>
                             </a>
                             <a href="https://www.instagram.com/vinay_kumar01/">
                                 <i className="fa fa-instagram" style={{ fontSize: '3rem', marginRight: '3vw' }}></i>
@@ -45,7 +45,7 @@ class About extends Component {
                             </a>
 
                             <a href="https://github.com/vinayk02">
-                                <i className="fa fa-github" style={{ fontSize: '3rem', marginRight: '3vw' }}></i>
+                                <i className="fa fa-github" style={{ fontSize: '3rem' }}></i>
                             </a>
                         </div>
                     </div>
