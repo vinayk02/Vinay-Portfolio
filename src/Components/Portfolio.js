@@ -1,5 +1,9 @@
-import React, { Component } from 'react';
+import React, { useCallback, useState, Component } from 'react';
+import { Controlled as ControlledZoom } from 'react-medium-image-zoom';
+import Zoom from 'react-medium-image-zoom';
+import 'react-medium-image-zoom/dist/styles.css';
 import Zmage from 'react-zmage';
+import { MyImg } from './ProjectModal';
 
 class Portfolio extends Component {
     render() {
@@ -11,7 +15,8 @@ class Portfolio extends Component {
             return (
                 <div key={index} className="columns portfolio-item four columns">
                     <div className="item-wrap">
-                        <Zmage alt={project.title} src={projectImage} />
+                        <MyImg image={projectImage} project={project} />
+
                         <div style={{ textAlign: 'center' }}>
                             {project.link && (
                                 <a href={project.link} style={{ textDecoration: 'none' }}>

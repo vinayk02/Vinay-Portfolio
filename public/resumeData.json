@@ -24,20 +24,10 @@
             {
                 "school": "Rutgers University- New Brunswick",
                 "degree": "Degree: Computer Science",
-                "graduated": "2020-2023",
-                "description": "My relevant classwork includes: Intro to Computer Science, Data Structures, Discrete Structures 1 & 2, Computer Architecture, Intro to Artificial Intelligence, Software Methodology, Imaging and Multimedia, Design and Analysis of Computer Algorithms, Data Management. I was also a member of the Rutgers Mobile App Development Club, Rutgers Creation of Games Society, Rutgers Association of Punjabis Club, and National Society of Leadership and Success."
-            },
-            {
-                "school": "City College of New York",
-                "degree": "Degree: Undecided",
-                "graduated": "2019-2020",
-                "description": "I was nominated for the National Society of Collegiate Scholars"
-            },
-            {
-                "school": "Tottenville High School",
-                "degree": "Degree: H.S. Diploma",
-                "graduated": "September 2015 - June 2019",
-                "description": "In high school, I was in the architecture program from Fall 2017- June 2019. I also attended College Now Classes in the Spring of 2018. I was also nominated for the National Youth Leadership Forum (NYLF). In addition, I was nominated for the National Academy for Future Scientists and Technologists."
+                "graduated": "Class of 2023",
+                "awards": " Deans List Spring 2021, Fall 2021, Spring 2023",
+                "relevantCoursework": " Intro to Computer Science, Data Structures, Discrete Structures 1 & 2, Computer Architecture, Intro to Artificial Intelligence, Software Methodology, Imaging and Multimedia, Design and Analysis of Computer Algorithms, Data Management",
+                "description": " My relevant classwork includes: Intro to Computer Science, Data Structures, Discrete Structures 1 & 2, Computer Architecture, Intro to Artificial Intelligence, Software Methodology, Imaging and Multimedia, Design and Analysis of Computer Algorithms, Data Management. I was also a member of the Rutgers Mobile App Development Club, Rutgers Creation of Games Society, Rutgers Association of Punjabis Club, and National Society of Leadership and Success."
             }
         ],
         "experience": [
@@ -48,40 +38,22 @@
                 "description": "I created Priorityze with a vision of enhancing productivity, both for myself and others. Priorityze, available on the Apple App Store and Google Play Store, empowers users to organize and manage all their tasks with their own unique preferences. This innovative app, developed using React Native, seamlessly synchronizes tasks, subtasks, lists, and categories across multiple devices. What sets Priorityze apart is its integration of Artificial Intelligence, allowing for the rapid generation of intricate tasks with just a prompt. I also spearheaded a multi-platform marketing campaign, utilizing social media platforms such as Instagram and TikTok, to effectively promote the app to users around the world."
             },
             {
-                "company": "Alloy Solutions",
-                "title": "Developer | Owner ",
-                "years": "May 2022 - August 2022",
-                "description": "I started Alloy Solutions in the fall of 2021. Alloy Solutions provides services such as Branding, Website Development, Web Design, and App Design. Through Alloy Solutions I have made websites, dashboards, and logos."
-            },
-            {
                 "company": "Whiting-Turner",
                 "title": "VDC Engineer Intern - VDC Engineer",
                 "years": "May 2022 - Present",
-                "description": "As an engineer, I have leveraged my technical expertise to create a more accurate representation of real-world conditions through the generation of multiple 3D models. In addition to this, I continue to oversee and meticulously quality-control various design and subcontractor models, streamlining the installation process. My responsibilities also included the production of multiple floor plan submittals, specifically for deck penetrations, ceiling penetrations, and reflected ceiling plans (RCPs). "
+                "description": "As an engineer, I have leveraged my technical expertise to create a more accurate representation of real-world conditions through the generation of multiple 3D models and laser scanning. In addition to this, I continue to oversee and meticulously quality-control various design and subcontractor models, streamlining the installation process. My responsibilities also included the production of multiple floor plan submittals, specifically for deck penetrations, ceiling penetrations, and reflected ceiling plans (RCPs). "
             },
             {
                 "company": "Taste of India II",
-                "title": "Receptionist | Waiter | Social Media Manager",
+                "title": "Shift Manager",
                 "years": "June 2017 - July 2023",
-                "description": "Taste of India 2 is an Indian restaurant in Staten Island, New York. I have been working there since May 2017. I am responsible for setting up the dining room for lunch and dinner. I clean up tables. I handle phone orders and also take care of cash management and credit card settling. Additionally, I used to manage the social media accounts. "
+                "description": "Taste of India 2 is an Indian restaurant in Staten Island, New York. I assisted in maintaining an online presence by updating the backend and frontend of the website regularly. I managed various types of orders including online, dine-in, and takeout. I also settled all transactions at the end of each switch"
             },
             {
                 "company": "Hill West",
                 "title": "Intern",
                 "years": "June 2019- August 2019",
-                "description": "Hill West is an industry-leading architectural firm known for creating beautiful high-rise towers in New York City. During my summer internship at Hill West, I learned about the design process when it comes to designing high-rise buildings. I learned basic AutoCAD skills and learned how to virtually model buildings using SketchUp.. I helped organize project submittals for 130 William Street. I made a 3D model and assisted in potential designs of an apartment floor plan for the 160 Clarkson Ave project."
-            },
-            {
-                "company": "Jacques Marchais Museum of Tibetan Art",
-                "title": "Volunteer",
-                "years": "June 2017 - August 2017",
-                "description": "Jacques Marchais Museum of Tibetan Art is located in Staten Island, New York. It is home to one of the most extensive collections of Himalayan artifacts. It is a uniquely peaceful retreat that features a beautiful garden. During my time at the museum, I helped maintain the garden and artifacts. Additionally, I photographed the Tibetan showcases for archival purposes."
-            },
-            {
-                "company": "Staten Island Hindu Temple",
-                "title": "Volunteer",
-                "years": "June 2017 - Present",
-                "description": "As a volunteer at the Staten Island Hindu Temple, I help set up the dining room and serve food to templegoers. Additionally, I assist in setting and cleaning up services at the temple."
+                "description": "Hill West is an industry-leading architectural firm known for creating beautiful high-rise towers in New York City. As an intern I contributed to keeping project submittals organized. I constructed a highly detailed 3d model of the exterior of a future project to present to investors. I also aided architects in the design of an apartment floor plan. I gained valuable knowledge such as the design process of high rise buildings as well as technical skills such as learning AutoCAD and Sketchup."
             }
         ],
         "skills": [
@@ -125,57 +97,115 @@
             {
                 "title": "Priorityze",
                 "category": "Multi-Platform Application",
-                "image": "FocusProject.png",
-                "link": "https://priorityze.app/"
+                "image": "FocusProject.PNG",
+                "description": "A productivity app that empowers users to organize and manage all their tasks with their own unique preferences. This innovative app seamlessly synchronizes tasks, subtasks, lists, and categories across multiple devices. What sets Priorityze apart is its integration of Artificial Intelligence, allowing for the rapid generation of intricate tasks with just a prompt. I also spearheaded a multi-platform marketing campaign, utilizing social media platforms such as Instagram and TikTok, to effectively promote the app to users around the world.",
+                "technologyUsed": " React Native, Node.JS, MySQL, OAuth, React.JS, Javascript, CSS",
+                "link": "https://priorityze.app/",
+                "bgColor": "#000000",
+                "textColor": "#ffffff"
             },
             {
                 "title": "Alloy Website",
                 "category": "Website",
+                "description": "A website that showcases the services and projects of Alloy Solutions, a company that I put some of my side projects under.",
+                "technologyUsed": " HTML, CSS, JavaScript",
                 "image": "AlloySite.png",
+                "bgColor": "#000000",
+                "textColor": "#ffffff",
                 "link": "https://alloysolutions.us/"
             },
             {
                 "title": "My Portfolio Website",
                 "category": "Website",
+                "description": "A website that showcases my personality, skills, projects, and experiences.",
+                "technologyUsed": " React.JS, Javascript, CSS",
                 "image": "01.jpg",
+                "bgColor": "#000000",
+                "textColor": "#ffffff",
                 "link": "https://vinaykumarportfolio.pages.dev/"
             },
             {
                 "title": "Barbershop Website",
                 "category": "Website",
-                "image": "Noel Website.png",
+                "description": "A classy & effective website developed for a local barber to showcase his services and attract new customers.",
+                "technologyUsed": " HTML, CSS, JavaScript",
+                "image": "NoelWebsite.png",
+                "bgColor": "#404040",
+                "textColor": "#9e8a78",
                 "link": "https://noels-barbershop.pages.dev/"
             },
             {
                 "title": "Master Date Website",
                 "category": "Website",
+                "description": "A web application that assists user in planning and creating fantastic date ideas with ease.",
+                "technologyUsed": " HTML, CSS, JavaScript",
                 "image": "md.PNG",
+                "bgColor": "#873d4e",
+                "textColor": "#ffffff",
                 "link": "https://masterdate.pages.dev/"
             },
             {
+                "title": "Taste of India II Website (Work in Progress)",
+                "category": "Website",
+                "description": "A website that showcases the services and menu of Taste of India II, an Indian restaurant in Staten Island, New York.",
+                "technologyUsed": " HTML, CSS, JavaScript",
+                "image": "TasteOfIndia2.PNG",
+                "bgColor": "#0e0d0e",
+                "textColor": "#ffffff",
+                "link": "https://www.tasteofindia2.com/"
+            },
+            {
+                "title": "Construction Website",
+                "category": "Website",
+                "description": "A website that utilizes JavaScript to create an innovative and interactive construction website.",
+                "technologyUsed": " HTML, CSS, JavaScript",
+                "image": "ConstructionWebsite.PNG",
+                "bgColor": "#000000",
+                "textColor": "#ffffff",
+                "link": "https://construction-website.pages.dev/"
+            },
+
+            {
                 "title": "Mock Dashboard",
                 "category": "Website",
+                "description": "A mock dashboard that was used to test how good Boostrap Studio is at creating the frontend for custom dashboards.",
+                "technologyUsed": " HTML, CSS, JavaScript, Bootstrap Studio",
+                "bgColor": "#14213d",
+                "textColor": "#ffffff",
                 "image": "Screen Shot 2021-08-09 at 1.59.20 PM.png"
             },
             {
                 "title": "Real Estate Mock Website",
                 "category": "Website",
+                "description": "A mock website that was created to test how good Boostrap Studio is at creating the frontend for real estate websites.",
+                "technologyUsed": " HTML, CSS, JavaScript, Bootstrap Studio",
+                "bgColor": "#ffffff",
+                "textColor": "#000000",
                 "image": "Real Estate.png"
             },
 
             {
                 "title": "Vice Extension",
                 "category": "Visual Studio Code Color Theme Extension",
+                "description": "A Visual Studio Code color theme extension that I created to help developers code in a more visually appealing environment with a Miami Vice vibe.",
+                "bgColor": "#000000",
+                "textColor": "#ffffff",
                 "image": "02.jpg"
             },
             {
                 "title": "3-D render of the front view of a modern house",
                 "category": "3-D Model",
+                "description": "A 3-D model of a single story modern house that I designed that maximizes natural light and greenery in front to give it a natural feel. I utilized Sketchup to create and render this model.",
+                "bgColor": "#d0ba6e",
+                "textColor": "#ffffff",
                 "image": "03.jpg"
             },
             {
                 "title": "Basic Framework Render of a Modern House Design.",
                 "category": "3-D Model",
+                "description": "A basic framework of a modern house that I designed. I utilized Sketchup to create this model.",
+                "bgColor": "#cbc5cf",
+                "textColor": "#ffffff",
                 "image": "04.jpg"
             }
         ]

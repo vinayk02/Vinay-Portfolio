@@ -47,7 +47,8 @@ class Header extends Component {
                         <h1 className="responsive-headline">Vinay Kumar</h1>
                         <h3>
                             Computer science graduate from Rutgers University. Developer and entrepreneur with a passion
-                            for creating innovative solutions with experience with web development, mobile development.
+                            for creating innovative solutions with experience in frontend, backend, and mobile
+                            development.
                         </h3>
                         <hr />
                         <ul className="social">

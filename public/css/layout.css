@@ -247,12 +247,19 @@ ul#nav li a:hover::before{
 }
 #about .profile-pic {
    position: relative;
-   width: 120px;
-   height: 120px;
    border-radius: 100%;
+   margin-top: 25%;
 }
 #about .contact-details { width: 41.66667%; }
 
+.modal-text{
+   position: absolute;
+   z-index: 10;
+   margin-top: 100%;
+   opacity: 0.7;
+   bottom: 0;
+   width: 100%;
+}
 
 
 /* ------------------------------------------------------------------ */
@@ -275,7 +282,7 @@ ul#nav li a:hover::before{
    letter-spacing: 1px;
 }
 #resume h1 span {
-   border-bottom: 3px solid #0762f9;
+   border-bottom: 3px solid #11ABB0;
    padding-bottom: 6px;
 }
 #resume h3 {
@@ -286,7 +293,7 @@ ul#nav li a:hover::before{
 #resume .header-col { padding-top: 9px; }
 #resume .main-col { padding-right: 10%; }
 
-.education, .work, .skills  {
+ .work, .skills  {
    margin-bottom: 48px;
    padding-bottom: 24px;
    border-bottom: 1px solid #E8E8E8;
@@ -318,7 +325,7 @@ ul#nav li a:hover::before{
    padding-bottom: 60px;
 }
 #portfolio h1 {
-   font: 15px/24px 'opensans-semibold', sans-serif;
+   font: 22px / 30px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 1px;
    text-align: center;
@@ -326,13 +333,18 @@ ul#nav li a:hover::before{
    color: #ffffff;
 }
 
+
+
 /* Portfolio Content */
 #portfolio-wrapper .columns { margin-bottom: 36px; }
 .portfolio-item .item-wrap {
    background: #ffffff;
    overflow: hidden;
    position: relative;
-
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
    -webkit-transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;
 	-o-transition: all 0.3s ease-in-out;
@@ -715,8 +727,14 @@ footer .social-links li:first-child { margin-left: 0; }
    margin-right: 30px;
 }
 .social .btn{
-   padding-left: 30px;
-   padding-right: 30px; 
+   width: 15%;
+
+}
+@media screen and (max-width: 1260px){
+   .social .btn{
+      width: 45%;
+   }
+   
 }
 .social .btn i{
    margin-right: 15px;
@@ -726,4 +744,28 @@ footer .social-links li:first-child { margin-left: 0; }
 }
 .github-btn{
    background-color: #34495e !important;
+}
+
+.modal-title{
+   font-family: 'Oswald', sans-serif;
+    font-weight: 500;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+.modal-description{
+   font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    text-transform: uppercase;
+    text-decoration: none;
+
+    margin: 0 15px;
+    font-size: 12px;
+    letter-spacing: 1px;
+}
+
+.portfolio-image{
+   max-height: 25vh;
 }
